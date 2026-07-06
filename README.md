@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BliteAnning
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently masering machine learning
+- 🌱 I’m currently mastering machine learning
 - 💞️ I’m looking to collaborate on full stack projects whether big or small
 - 📫 How to reach: anningbright578@gmail.com
 - 😄 Pronouns: He/Him
